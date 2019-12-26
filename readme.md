@@ -7,4 +7,5 @@
 - [Hands on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/Hands-onPythonTutorial.pdf)
 - [Exploring the Attack Surface of Blockchain: Systematic Overview](https://arxiv.org/pdf/1904.03487.pdf)
 - [More Books](https://github.com/hossainel/bibanon/tree/master/Books)
+- [Volume-2](https://github.com/hossainel/Books-1)
 - [Packt Publishing](https://github.com/PacktPublishing)
